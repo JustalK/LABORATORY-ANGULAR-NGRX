@@ -17,11 +17,19 @@ The alias are configured inside the `tsconfig.json`.
 
 I explain with all the details how I build the project and my way of working.
 
+- [Experiences](#experiences)
+- [Links](#links)
 - [Documentation](#documentation)
 - [Organization](#organization)
 - [Development](#development)
 - [Running](#running)
 - [Commands](#commands)
+
+## Experiences
+
+## Links
+
+- [NGRX official](https://ngrx.io/guide/)
 
 ## Documentation
 #### Code documentation
