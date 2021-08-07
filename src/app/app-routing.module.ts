@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import HomeComponent from '@pages/home/home.component';
-import SecondaryComponent from '@pages/secondary/secondary.component';
+import Experience_0001 from '@pages/experience1/experience.component';
 
 const routes: Routes = [
-  { path: 'secondary', component: SecondaryComponent },
-  { path: '', component: HomeComponent },
+  { path: 'experience_0001', component: Experience_0001 },
+  { path: '', component: Experience_0001 },
+  { path: '**', component: Experience_0001 },
 ];
 
 @NgModule({
